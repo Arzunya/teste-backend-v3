@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using ApprovalTests;
 using ApprovalTests.Reporters;
 using Xunit;
+using TheatricalPlayersRefactoringKata.Presentation.Controllers;
 
 namespace TheatricalPlayersRefactoringKata.Tests;
 
