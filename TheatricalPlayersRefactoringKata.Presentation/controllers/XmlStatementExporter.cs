@@ -47,7 +47,7 @@ namespace TheatricalPlayersRefactoringKata.Presentation.Controllers
             statement.Add(new XElement("AmountOwed", totalAmount));
             statement.Add(new XElement("EarnedCredits", totalVolumeCredits));
 
-            var xmlString = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" + statement.ToString();
+            var xmlString = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"+ statement.ToString();
 
             return xmlString;
         }

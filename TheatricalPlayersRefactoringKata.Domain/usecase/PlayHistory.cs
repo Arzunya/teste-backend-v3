@@ -22,8 +22,6 @@ namespace TheatricalPlayersRefactoringKata.Domain.usecase
 
         public decimal CalculateVolumeCredits(Play play, Performance perf)
         {
-            // Use a similar logic to one of the genres, not both
-            // Let's assume the history genre follows tragedy rules for simplicity
             return _playTragedy.CalculateVolumeCredits(play, perf);
         }
     }

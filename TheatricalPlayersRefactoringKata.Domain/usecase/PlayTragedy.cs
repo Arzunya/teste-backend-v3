@@ -9,7 +9,7 @@ namespace TheatricalPlayersRefactoringKata.Domain.usecase
             var lines = play.Lines;
             if (lines < 1000) lines = 1000;
             if (lines > 4000) lines = 4000;
-            var baseAmount = (lines / 10m);
+            var baseAmount = (lines / 10m); 
 
             var thisAmount = baseAmount;
 
