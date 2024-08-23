@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04E62A02-8A91-438A-BEEA-47C8EDB67346}|TheatricalPlayersRefactoringKata.Presentation\\TheatricalPlayersRefactoringKata.Presentation.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E62A02-8A91-438A-BEEA-47C8EDB67346}|TheatricalPlayersRefactoringKata.Presentation\\TheatricalPlayersRefactoringKata.Presentation.csproj|solutionrelative:theatricalplayersrefactoringkata.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.test\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|solutionrelative:theatricalplayersrefactoringkata.test\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.test\\invoicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|solutionrelative:theatricalplayersrefactoringkata.test\\invoicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.test\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|solutionrelative:theatricalplayersrefactoringkata.test\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.test\\playtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|solutionrelative:theatricalplayersrefactoringkata.test\\playtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.test\\statementprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4E1FA4-6047-4233-B4E6-3C2DF481C09B}|TheatricalPlayersRefactoringKata.Test\\TheatricalPlayersRefactoringKata.Test.csproj|solutionrelative:theatricalplayersrefactoringkata.test\\statementprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E62A02-8A91-438A-BEEA-47C8EDB67346}|TheatricalPlayersRefactoringKata.Presentation\\TheatricalPlayersRefactoringKata.Presentation.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.presentation\\controllers\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E62A02-8A91-438A-BEEA-47C8EDB67346}|TheatricalPlayersRefactoringKata.Presentation\\TheatricalPlayersRefactoringKata.Presentation.csproj|solutionrelative:theatricalplayersrefactoringkata.presentation\\controllers\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\usecase\\playtragedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\usecase\\playtragedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\usecase\\playhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\usecase\\playhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\usecase\\playcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\usecase\\playcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\usecase\\interfaces\\iplaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\usecase\\interfaces\\iplaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\model\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\model\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\model\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\model\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|c:\\users\\otavi\\source\\repos\\teste-backend-v3\\theatricalplayersrefactoringkata.domain\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050B237-8E44-41ED-9A2E-98CF9E5A39B0}|TheatricalPlayersRefactoringKata.Domain\\TheatricalPlayersRefactoringKata.Domain.csproj|solutionrelative:theatricalplayersrefactoringkata.domain\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,27 +81,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Presentation\\Class1.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Presentation\\Class1.cs",
-              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Presentation\\Class1.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Presentation\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Test\\IntegrationTests.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\IntegrationTests.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Test\\IntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T02:59:22.727Z",
+              "WhenOpened": "2024-08-23T03:27:05.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\Class1.cs",
-              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "InvoiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\InvoiceTests.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Test\\InvoiceTests.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\InvoiceTests.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Test\\InvoiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T02:58:56.47Z",
+              "WhenOpened": "2024-08-23T03:26:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerformanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\PerformanceTests.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Test\\PerformanceTests.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\PerformanceTests.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Test\\PerformanceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:26:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayTests.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\PlayTests.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Test\\PlayTests.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\PlayTests.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Test\\PlayTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:25:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatementPrinterTests.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\StatementPrinterTests.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Test\\StatementPrinterTests.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Test\\StatementPrinterTests.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Test\\StatementPrinterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:23:05.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Presentation\\controllers\\StatementPrinter.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Presentation\\controllers\\StatementPrinter.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Presentation\\controllers\\StatementPrinter.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Presentation\\controllers\\StatementPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:13:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayTragedy.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayTragedy.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayTragedy.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayTragedy.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayTragedy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:10:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayHistory.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayHistory.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayHistory.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayHistory.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:09:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayComedy.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayComedy.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayComedy.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayComedy.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\usecase\\PlayComedy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:09:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayType.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\interfaces\\IPlayType.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\usecase\\interfaces\\IPlayType.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\usecase\\interfaces\\IPlayType.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\usecase\\interfaces\\IPlayType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:08:34.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Play.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Play.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\model\\Play.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Play.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\model\\Play.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:07:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Performance.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\model\\Performance.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Performance.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\model\\Performance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:07:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Invoice.cs",
+              "RelativeDocumentMoniker": "TheatricalPlayersRefactoringKata.Domain\\model\\Invoice.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\teste-backend-v3\\TheatricalPlayersRefactoringKata.Domain\\model\\Invoice.cs",
+              "RelativeToolTip": "TheatricalPlayersRefactoringKata.Domain\\model\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:06:49.305Z",
               "EditorCaption": ""
             },
             {
